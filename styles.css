@@ -1,0 +1,15 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: black;
+}
+
+p {
+    color: red;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace, 'Bradley Hand', sans-serif;
+    font-size: 27px;
+}
